@@ -3,6 +3,7 @@
 </script>
 
 <div class="app">
+	Test mafia
 </div>
 
 <style>
