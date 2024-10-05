@@ -3,7 +3,7 @@
 </script>
 
 <div class="app">
-	Test mafia
+	Test mafia wow
 </div>
 
 <style>
